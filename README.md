@@ -1,4 +1,4 @@
-Hi there, I'm Shreyas! 👋
+Hi there, I'm DivyaShree! 👋
 
 I'm a passionate Full-Stack Developer based in Bengaluru, India, with over a year of hands-on experience building scalable, production-ready applications.
 I love creating efficient backend systems, intuitive frontends, and AI-integrated solutions.
