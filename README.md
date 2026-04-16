@@ -52,8 +52,6 @@ OOP • DSA • System Design • SDLC
 
 ## 📊 GitHub Stats
 
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyashree029\&show_icons=true\&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029\&layout=compact\&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=divyashree029\&theme=radical)
