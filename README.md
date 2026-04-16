@@ -58,14 +58,7 @@ OOP • DSA • System Design • SDLC
 
 ---
 
-## 🏆 Achievements
-
-* 📄 Published IEEE paper: *Digital Notice Board using Wi-Fi Module*
-* 🌍 Active in open-source contributions
-
----
-
-## 🎯 Current Focus
+##  Current Focus
 
 * System Design (HLD + LLD)
 * Backend optimization & scalability
@@ -73,13 +66,11 @@ OOP • DSA • System Design • SDLC
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect🤝
 
 💬 Open to backend / full-stack / AI-based opportunities
 
 ---
-
-⭐ *If you enjoy my work, consider buying me a coffee/tea 🥺👉👈*
-
+*If you enjoy my work, consider buying me a coffee/tea 🥺👉👈*
 
 Thanks for stopping by! 🚀
