@@ -1,29 +1,87 @@
-**Hi there, I'm DivyaShree!** 👋
+# 👋 Hi, I'm Divya Shree
 
-I'm a passionate Full-Stack Developer based in Bengaluru, India, with over a year of hands-on experience building scalable, production-ready applications.
-I love creating efficient backend systems, intuitive frontends, and AI-integrated solutions.
+🚀 **Software Engineer | Backend-Focused Full-Stack Developer**
+📍 Bengaluru, India
 
-👀 Interests: Full-Stack Development, Generative AI, innovative tech projects
-🌱 Currently learning: System Design , Docker
+🔗 [LinkedIn](https://linkedin.com/in/tcdivyashree) • [Portfolio](https://divyashree29.netlify.app/) • [GitHub](https://github.com/divyashree029)
 
-💼 Experience:
-Software Engineer @ LG Soft India Pvt Ltd 
-Data Analyst intern @ Ahana Systems 
-Web Develop intern @ Oasis Infobyte
-🎓 Education: B.E. in Electronics & Communication Engineering from New Horizon college of Engineering
+---
 
-🔧 Tech Stack: 
-•	Programming Languages: Java, JavaScript
-•	Backend Technologies: Spring Boot, REST APIs, Spring Security, JWT, Microservices (Basic)
-•	Frontend Technologies: React.js (Components, Hooks, API Integration), HTML, CSS
-•	Databases: MySQL, SQL
-•	DevOps & Deployment (Foundation): Docker, AWS
-•	Testing: JUnit (Basic)
-•	Tools: Git, Postman, Cursor IDE
-•	Core Concepts: OOP, Data Structures & Algorithms (DSA), System Design, Linux
+##  About Me
+
+I build **scalable backend systems and full-stack applications** using Java, Spring Boot, and modern web technologies.
+
+💡 What I bring:
+
+* Strong backend engineering with **Spring Boot & Microservices**
+* Performance optimization mindset (**~48% API improvement**)
+* Secure systems using **JWT & Spring Security**
+* Real-world experience with **production systems (500+ users)**
+
+---
+
+##  What Makes Me Stand Out
+
+✔ Designed scalable architecture using SOLID principles
+✔ Reduced API response time from **2.7s → 1.4s**
+✔ Improved system efficiency by **~65%**
+✔ Built secure authentication systems with JWT
+✔ Experience working on production-grade applications
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**
+Java • Spring Boot • REST APIs • Spring Security • JPA/Hibernate • Microservices
+
+**Frontend:**
+React.js • JavaScript • HTML • CSS
+
+**Database:**
+MySQL (Optimization, Indexing, Schema Design)
+
+**DevOps & Tools:**
+Docker • AWS (Basics) • Git • Postman • IntelliJ • VS Code • Jira
+
+**Core Concepts:**
+OOP • DSA • System Design • SDLC
+
+---
 
 
-If you enjoy my work, consider buying me a coffee/tea 🥺👉👈
+## 📊 GitHub Stats
 
-💬 Open to collaborating on exciting projects — feel free to reach out!
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyashree029\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029\&layout=compact\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=divyashree029\&theme=radical)
+
+---
+
+## 🏆 Achievements
+
+* 📄 Published IEEE paper: *Digital Notice Board using Wi-Fi Module*
+* 🌍 Active in open-source contributions
+
+---
+
+## 🎯 Current Focus
+
+* System Design (HLD + LLD)
+* Backend optimization & scalability
+* Docker & Cloud (AWS)
+
+---
+
+## 🤝 Let's Connect
+
+💬 Open to backend / full-stack / AI-based opportunities
+
+---
+
+⭐ *If you enjoy my work, consider buying me a coffee/tea 🥺👉👈*
+
+
 Thanks for stopping by! 🚀
