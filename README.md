@@ -1,76 +1,81 @@
 # 👋 Hi, I'm Divya Shree
 
-🚀 **Software Engineer | Backend-Focused Full-Stack Developer**
-📍 Bengaluru, India
+🚀 **Software Engineer | Backend-Focused Full-Stack Developer**  
+📍 Bengaluru, India  
 
-🔗 [LinkedIn](https://linkedin.com/in/tcdivyashree) • [Portfolio](https://divyashree29.netlify.app/) • [GitHub](https://github.com/divyashree029)
-
----
-
-##  About Me
-
-I build **scalable backend systems and full-stack applications** using Java, Spring Boot, and modern web technologies.
-
-💡 What I bring:
-
-* Strong backend engineering with **Spring Boot & Microservices**
-* Performance optimization mindset (**~48% API improvement**)
-* Secure systems using **JWT & Spring Security**
-* Real-world experience with **production systems (500+ users)**
+🔗 [LinkedIn](https://linkedin.com/in/tcdivyashree) • [Portfolio](https://tc-divyashree.netlify.app/) • [GitHub](https://github.com/divyashree029)
 
 ---
 
-##  What Makes Me Stand Out
+## 💫 About Me
 
-✔ Designed scalable architecture using SOLID principles
-✔ Reduced API response time from **2.7s → 1.4s**
-✔ Improved system efficiency by **~65%**
-✔ Built secure authentication systems with JWT
-✔ Experience working on production-grade applications
+I’m a Software Engineer with hands-on experience building scalable backend systems and full-stack applications using **Java, Spring Boot, React.js, and MySQL**. I enjoy solving real-world problems through clean architecture, optimized APIs, and production-ready software solutions. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🚀 What I Bring
+
+✔ Strong backend engineering with **Spring Boot, REST APIs & Microservices**  
+✔ Optimized API response time from **2.7s → 1.4s (~48%)**  
+✔ Improved report generation systems by **~65%**  
+✔ Built secure authentication systems using **JWT & Spring Security**  
+✔ Worked on production applications used by **4500+ users** :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:**
+**Backend:**  
 Java • Spring Boot • REST APIs • Spring Security • JPA/Hibernate • Microservices
 
-**Frontend:**
+**Frontend:**  
 React.js • JavaScript • HTML • CSS
 
-**Database:**
-MySQL (Optimization, Indexing, Schema Design)
+**Database:**  
+MySQL • Query Optimization • Indexing • Schema Design
 
-**DevOps & Tools:**
-Docker • AWS (Basics) • Git • Postman • IntelliJ • VS Code • Jira
+**Cloud & DevOps:**  
+Docker • Kubernetes • AWS • CI/CD • Jenkins • GitHub
 
-**Core Concepts:**
-OOP • DSA • System Design • SDLC
+**Testing & Tools:**  
+JUnit • Mockito • Postman • Git • VS Code • IntelliJ
+
+**Core Concepts:**  
+OOP • DSA • System Design • SDLC • Generative AI
 
 ---
 
+## 📌 Featured Projects
+
+### 💰 Full Stack Expense Tracker
+Built a secure expense tracker with JWT authentication, analytics dashboard, optimized MySQL queries, and React frontend. Supported **10K+ transactions** with improved performance. :contentReference[oaicite:2]{index=2}
+
+### 🤖 AI-Powered PDF Interaction Bot
+Developed a chatbot using **Streamlit, LangChain, FAISS**, and Google embeddings for PDF upload, text extraction, and smart document Q&A. :contentReference[oaicite:3]{index=3}
+
+---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=divyashree029\&theme=radical)
-
----
-
-##  Current Focus
-
-* System Design (HLD + LLD)
-* Backend optimization & scalability
-* Docker & Cloud (AWS)
+![GitHub Streak](https://streak-stats.demolab.com?user=divyashree029&theme=radical)
 
 ---
 
-## Let's Connect🤝
+## 🎯 Current Focus
 
-💬 Open to backend / full-stack / AI-based opportunities
+- Backend scalability & optimization  
+- System Design (LLD + HLD)  
+- Docker, Kubernetes & Cloud  
+- High-performance Java applications  
 
 ---
+
+## 🤝 Let's Connect
+
+💬 Open to **Software Engineer / Backend / Full-Stack opportunities**
+
 *If you enjoy my work, consider buying me a coffee/tea 🥺👉👈*
 
 Thanks for stopping by! 🚀
