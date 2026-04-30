@@ -1,20 +1,15 @@
 # 👋 Hi, I'm Divya Shree
-
 🚀 **Software Engineer | Backend-Focused Full-Stack Developer**  
 📍 Bengaluru, India  
-
 🔗 [LinkedIn](https://linkedin.com/in/tcdivyashree) • [Portfolio](https://tc-divyashree.netlify.app/) • [GitHub](https://github.com/divyashree029)
 
 ---
-
 ## 💫 About Me
-
 I’m a Software Engineer with hands-on experience building scalable backend systems and full-stack applications using **Java, Spring Boot, React.js, and MySQL**. I enjoy solving real-world problems through clean architecture, optimized APIs, and production-ready software solutions. :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 🚀 What I Bring
-
 ✔ Strong backend engineering with **Spring Boot, REST APIs & Microservices**  
 ✔ Optimized API response time from **2.7s → 1.4s (~48%)**  
 ✔ Improved report generation systems by **~65%**  
@@ -22,7 +17,6 @@ I’m a Software Engineer with hands-on experience building scalable backend sys
 ✔ Worked on production applications used by **4500+ users** :contentReference[oaicite:1]{index=1}
 
 ---
-
 ## 🛠️ Tech Stack
 
 **Backend:**  
@@ -45,18 +39,7 @@ OOP • DSA • System Design • SDLC • Generative AI
 
 ---
 
-## 📌 Featured Projects
-
-### 💰 Full Stack Expense Tracker
-Built a secure expense tracker with JWT authentication, analytics dashboard, optimized MySQL queries, and React frontend. Supported **10K+ transactions** with improved performance. :contentReference[oaicite:2]{index=2}
-
-### 🤖 AI-Powered PDF Interaction Bot
-Developed a chatbot using **Streamlit, LangChain, FAISS**, and Google embeddings for PDF upload, text extraction, and smart document Q&A. :contentReference[oaicite:3]{index=3}
-
----
-
 ## 📊 GitHub Stats
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=divyashree029&theme=radical)
@@ -64,7 +47,6 @@ Developed a chatbot using **Streamlit, LangChain, FAISS**, and Google embeddings
 ---
 
 ## 🎯 Current Focus
-
 - Backend scalability & optimization  
 - System Design (LLD + HLD)  
 - Docker, Kubernetes & Cloud  
@@ -73,9 +55,7 @@ Developed a chatbot using **Streamlit, LangChain, FAISS**, and Google embeddings
 ---
 
 ## 🤝 Let's Connect
-
 💬 Open to **Software Engineer / Backend / Full-Stack opportunities**
 
-*If you enjoy my work, consider buying me a coffee/tea 🥺👉👈*
-
+*I**f you enjoy my work, consider buying me a coffee/tea** 🥺👉👈*
 Thanks for stopping by! 🚀
