@@ -8,7 +8,6 @@
 I’m a Software Engineer with hands-on experience building scalable backend systems and full-stack applications using **Java, Spring Boot, React.js, and MySQL**. I enjoy solving real-world problems through clean architecture, optimized APIs, and production-ready software solutions. :contentReference[oaicite:0]{index=0}
 
 ---
-
 ## 🚀 What I Bring
 ✔ Strong backend engineering with **Spring Boot, REST APIs & Microservices**  
 ✔ Optimized API response time from **2.7s → 1.4s (~48%)**  
@@ -58,4 +57,5 @@ OOP • DSA • System Design • SDLC • Generative AI
 💬 Open to **Software Engineer / Backend / Full-Stack opportunities**
 
 *I**f you enjoy my work, consider buying me a coffee/tea** 🥺👉👈*
+
 Thanks for stopping by! 🚀
