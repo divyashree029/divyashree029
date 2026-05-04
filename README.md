@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divya Shree
 🚀 **Software Engineer | Backend-Focused Full-Stack Developer**  
 📍 Bengaluru, India  
-🔗 [LinkedIn](https://linkedin.com/in/tcdivyashree) • [Portfolio](https://tc-divyashree.netlify.app/) • [GitHub](https://github.com/divyashree029)
+🔗 [LinkedIn](https://linkedin.com/in/tcdivyashree) • [Portfolio]([https://tc-divyashree.netlify.app/](https://tcdivyashree29.netlify.app/)) • [GitHub](https://github.com/divyashree029)
 
 ---
 ## 💫 About Me
