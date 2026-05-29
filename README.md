@@ -125,10 +125,11 @@ OOP · DSA · System Design (LLD / HLD) · Agile Development
   </a>
 </p>
 
-| 📊 | Detail|
-| ✅ Solved| 162+ problems and counting |
-| ✅ Focus | Arrays · Strings · Trees · Dynamic Programming · Sliding Window |
-| 🔁 Style | Consistent practice · Optimal time & space complexity |
+| 📊 | Detail |
+|----|--------|
+| ✅ Solved | **166+ problems and counting** |
+| 🎯 Focus | Arrays · Strings · Trees · Graphs · Dynamic Programming · Sliding Window |
+| 🔄 Style | Consistent practice · Optimal time & space complexity |
 
 ---
 
