@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Backend Software Engineer with 2 years of experience building scalable Java applications, secure REST APIs, and microservices-driven systems.
 
@@ -33,7 +33,7 @@ My experience spans backend development, distributed systems, event-driven archi
 
 ---
 
-## 💻 Technologies I Work With
+##  Technologies I Work With
 
 <p align="center">
 
@@ -61,7 +61,7 @@ LangChain • FAISS • Google PaLM • Streamlit
 
 ---
 
-## 🎯 What I Bring
+## What I Bring
 
 * Building enterprise-grade backend systems
 * Designing and developing Microservices
@@ -75,23 +75,23 @@ LangChain • FAISS • Google PaLM • Streamlit
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🛒 Enterprise Shopping Platform
+- 🛒 **Enterprise Shopping Platform**  
+  Spring Boot • Microservices • Kafka • MySQL • AWS  
+  🔗 https://github.com/divyashree029/Enterprise-Shopping-Platform-
 
-A scalable e-commerce platform built using Spring Boot Microservices, Kafka, MySQL, Docker, and AWS. Designed with secure authentication, optimized database performance, and production-ready deployment practices.
+- 💳 **Payment Gateway Simulator**  
+  Spring Boot • OAuth2 • JWT • CI/CD • Docker  
+  🔗 https://github.com/divyashree029/Payment-gateway-Simulator-Application
 
-### 💳 Payment Gateway Simulator
-
-A backend system that simulates real-world payment processing workflows including transaction handling, authentication, refunds, and failure scenarios using Spring Boot and OAuth2.
-
-### 🤖 AI-Powered PDF Interaction Bot
-
-A Generative AI application built with LangChain, FAISS, Google PaLM, and Streamlit that allows users to upload PDFs and interact with their content through natural conversations.
+- 🤖 **AI-Powered PDF Interaction Bot**  
+  LangChain • FAISS • Google PaLM • Streamlit  
+  🔗 https://github.com/divyashree029/AI-Powered-PDF-Interaction-Bot-main
 
 ---
 
-## 📈 Coding Journey
+##  Coding Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/divyashree29/">
@@ -105,25 +105,7 @@ A Generative AI application built with LangChain, FAISS, Google PaLM, and Stream
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=divyashree029&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyashree029&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyashree029&theme=github-dark&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashree029&theme=github_dark"/>
@@ -142,7 +124,7 @@ A Generative AI application built with LangChain, FAISS, Google PaLM, and Stream
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in connecting with fellow engineers, collaborating on exciting projects, and exploring Backend, Java, Spring Boot, and Software Engineering opportunities.
 
@@ -156,5 +138,6 @@ I'm always interested in connecting with fellow engineers, collaborating on exci
 ---
 
 <p align="center">
-  <i>"Good software is not just about writing code — it's about solving problems at scale."</i>
+  If you like my work, consider buying me a ☕ coffee or 🍵 tea! 
+  and let's talk about technology, backend engineering, and building scalable systems.
 </p>
