@@ -48,18 +48,18 @@ My experience spans backend development, distributed systems, event-driven archi
 </p>
 
 ---
+## ⚡ Backend Engineering Focus
 
-## What I Bring
-
-* Building enterprise-grade backend systems
-* Designing and developing Microservices
-* Secure Authentication & Authorization (JWT / OAuth2)
-* Event-Driven Architecture using Apache Kafka
-* AWS Cloud Deployments
-* CI/CD Automation
-* Database Design & Performance Optimization
-* Production Monitoring & Debugging
-* Strong Data Structures & Algorithms Foundation
+I enjoy building systems that are:
+🛠 Reliable — Production-ready backend services
+🔐 Secure — Authentication, Authorization & API Security
+📦 Scalable — Microservices & Distributed Systems
+📡 Event-Driven — Apache Kafka & Asynchronous Processing
+☁ Cloud-Native — AWS Deployments & Infrastructure
+🔄 Automated — CI/CD & DevOps Practices
+🗄 Efficient — Database Design & Performance Tuning
+🧩 Maintainable — Clean Code & Software Design Principles
+🧠 Optimized — Strong DSA & Problem Solving
 
 ---
 
