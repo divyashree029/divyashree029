@@ -26,9 +26,7 @@
 ## About Me
 
 Backend Software Engineer with 2 years of experience building scalable Java applications, secure REST APIs, and microservices-driven systems.
-
 I enjoy solving real-world engineering challenges, designing clean architectures, optimizing backend performance, and continuously improving my problem-solving skills through hands-on projects and DSA practice.
-
 My experience spans backend development, distributed systems, event-driven architecture, cloud deployment, and DevOps practices. I believe in writing maintainable code, building reliable systems, and always learning something new.
 
 ---
@@ -37,25 +35,15 @@ My experience spans backend development, distributed systems, event-driven archi
 
 <p align="center">
 
-**Backend & Architecture**
+**Backend & Architecture** : Java • Spring Boot • Spring Security • Hibernate • REST APIs • Microservices
 
-Java • Spring Boot • Spring Security • Hibernate • REST APIs • Microservices
+**Databases & Messaging** : MySQL • Query Optimization • Database Design • Apache Kafka
 
-**Databases & Messaging**
+**Cloud & DevOps** : AWS • Docker • Kubernetes • Jenkins • CI/CD
 
-MySQL • Query Optimization • Database Design • Apache Kafka
+**Testing & Monitoring** : JUnit • Mockito • Postman • Swagger • Splunk • Log4j2
 
-**Cloud & DevOps**
-
-AWS • Docker • Kubernetes • Jenkins • CI/CD
-
-**Testing & Monitoring**
-
-JUnit • Mockito • Postman • Swagger • Splunk • Log4j2
-
-**AI & Emerging Technologies**
-
-LangChain • FAISS • Google PaLM • Streamlit
+**AI & Emerging Technologies** : LangChain • FAISS • Google PaLM • Streamlit
 
 </p>
 
@@ -110,17 +98,6 @@ LangChain • FAISS • Google PaLM • Streamlit
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashree029&theme=github_dark"/>
 </p>
-
----
-
-## 🌱 Currently Exploring
-
-* Advanced Microservices Patterns
-* Distributed Systems
-* Kubernetes & Container Orchestration
-* System Design (LLD & HLD)
-* Event-Driven Architectures
-* Generative AI Applications
 
 ---
 
