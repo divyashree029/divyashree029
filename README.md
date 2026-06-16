@@ -108,9 +108,9 @@ I'm always interested in connecting with fellow engineers, collaborating on exci
 <p align="center">
   📧 <b>Email:</b> divya29shreetc@gmail.com <br/>
   💼 <b>LinkedIn:</b> www.linkedin.com/in/tcdivyashree <br/>
-  💻 <b>GitHub:</b> github.com/divyashree029 <br/>
-  🧩 <b>LeetCode:</b> leetcode.com/u/divyashree29
-  💻 <b>Portfolio:</b> https://tcdivyashree29.netlify.app/
+  💻 <b>GitHub:</b> https://github.com/divyashree029 <br/>
+  🧩 <b>LeetCode:</b> https://leetcode.com/u/divyashree29/ <br/>
+  💻 <b>Portfolio:</b> https://tcdivyashree29.netlify.app/ <br/>
 </p>
 
 ---
