@@ -67,7 +67,7 @@ I enjoy building systems that are:
 
 - 🛒 **Enterprise Shopping Platform**  
   Spring Boot • Microservices • Kafka • MySQL • AWS  
-  🔗 https://github.com/divyashree029/Enterprise-Shopping-Platform-
+  🔗 https://github.com/divyashree029/Enterprise-Shopping-Platform-Main
 
 - 💳 **Payment Gateway Simulator**  
   Spring Boot • OAuth2 • JWT • CI/CD • Docker  
@@ -110,6 +110,7 @@ I'm always interested in connecting with fellow engineers, collaborating on exci
   💼 <b>LinkedIn:</b> www.linkedin.com/in/tcdivyashree <br/>
   💻 <b>GitHub:</b> github.com/divyashree029 <br/>
   🧩 <b>LeetCode:</b> leetcode.com/u/divyashree29
+  💻 <b>Portfolio:</b> https://tcdivyashree29.netlify.app/
 </p>
 
 ---
