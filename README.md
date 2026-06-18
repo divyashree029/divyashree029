@@ -51,15 +51,25 @@ My experience spans backend development, distributed systems, event-driven archi
 ## ⚡ Backend Engineering Focus
 
 I enjoy building systems that are:
+
 🛠 Reliable — Production-ready backend services
+
 🔐 Secure — Authentication, Authorization & API Security
+
 📦 Scalable — Microservices & Distributed Systems
+
 📡 Event-Driven — Apache Kafka & Asynchronous Processing
+
 ☁ Cloud-Native — AWS Deployments & Infrastructure
+
 🔄 Automated — CI/CD & DevOps Practices
+
 🗄 Efficient — Database Design & Performance Tuning
+
 🧩 Maintainable — Clean Code & Software Design Principles
+
 🧠 Optimized — Strong DSA & Problem Solving
+
 
 ---
 
