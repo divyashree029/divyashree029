@@ -19,6 +19,8 @@
   <a href="https://leetcode.com/u/divyashree29/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-333?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=divyashree29&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+  
 </p>
 
 ---
