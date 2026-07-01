@@ -47,5 +47,4 @@ I'm always interested in connecting with fellow engineers, collaborating on exci
 
 <p align="center">
   If you like my work, consider buying me a ☕ coffee or 🍵 tea! 
-  and let's talk about technology, backend engineering, and building scalable systems.
 </p>
