@@ -29,19 +29,19 @@
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashree029&theme=github_dark"/> </p>
 
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashree029&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyashree029&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyashree029&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyashree029&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com?user=divyashree029&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyashree029&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyashree029&theme=github_dark&utcOffset=5.5"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=divyashree029&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
+
 ---
 
 ##  Let's Connect
