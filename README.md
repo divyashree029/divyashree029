@@ -27,7 +27,7 @@
 
 ## 📈 Contribution Activity
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashree029&theme=github_dark"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?theme=github_dark"/> </p>
 
 ---
 
