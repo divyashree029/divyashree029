@@ -28,7 +28,8 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divyashree029/divyashree029/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=divyashree029&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=divyashree029&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
