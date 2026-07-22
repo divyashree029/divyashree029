@@ -28,7 +28,13 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divyashree029&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyashree029&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyashree029&theme=tokyo-night"/>
 </p>
 
 ---
