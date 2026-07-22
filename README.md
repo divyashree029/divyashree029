@@ -28,7 +28,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://gitblend.com/api/contributions?username=divyashree029&theme=github" />
+  <img src="https://gitblend.com/api/contributions?username=divyashree029&theme=dark" />
 </p>
 
 ---
