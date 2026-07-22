@@ -28,7 +28,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://gitblend.com/api/contributions?username=divyashree029&theme=dark" />
+  <img src="https://raw.githubusercontent.com/divyashree029/divyashree029/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
