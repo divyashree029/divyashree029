@@ -28,7 +28,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyashree029&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=divyashree029&theme=github-dark&hide_border=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyashree029&theme=github-dark&hide_border=true"/>
 </p>
 
