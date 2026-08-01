@@ -29,7 +29,6 @@
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=divyashree029&theme=github-dark&hide_border=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyashree029&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
