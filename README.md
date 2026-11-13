@@ -26,7 +26,6 @@
 ---
 
 ## 📈 Contribution Activity
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyashree029&theme=tokyo-night&hide_border=true&area=true" />
 </p>
@@ -39,6 +38,42 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashree029&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: divyashree029
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ---
 
