@@ -28,13 +28,6 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=divyashree029&theme=github-dark&hide_border=true"/>
-</p>
-
-
-## 📈 My GitHub Activity
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyashree029&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
